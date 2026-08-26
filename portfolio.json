@@ -1,0 +1,82 @@
+[
+  {
+    "id": "folio-1",
+    "title": "Koffie Nusantara - Artisanal Coffee Roastery",
+    "category": "Visual Identity",
+    "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?q=80&w=1200&auto=format&fit=crop",
+    "client": "PT Koffie Nusantara Prima",
+    "year": "2024",
+    "deliverables": ["Primary & Secondary Logo", "Brand Style Guide (40 Hal)", "Packaging Pouch Design", "Merchandise & Apron Kit"],
+    "description": "Pengembangan identitas visual menyeluruh untuk brand kopi artisanal premium dengan pendekatan kontemporer namun tetap mengangkat warisan nusantara. Hasil branding meningkatkan nilai jual produk dan memperluas distribusi ke 12 kota besar di Indonesia."
+  },
+  {
+    "id": "folio-2",
+    "title": "Sora Skincare - Organic & Clean Beauty",
+    "category": "Packaging & Brand",
+    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?q=80&w=1200&auto=format&fit=crop",
+    "client": "Sora Botanicals Indonesia",
+    "year": "2024",
+    "deliverables": ["Logo & Wordmark", "Eco-friendly Box Packaging", "Serum & Cream Bottle Labels", "3D Product Render"],
+    "description": "Perancangan kemasan kosmetik ramah lingkungan dengan estetika minimalis Jepang-Skandinavia (Japandi). Menggunakan palet monokromatik dan aksen elegan untuk memposisikan Sora sebagai brand perawatan kulit berbahan alami terpercaya."
+  },
+  {
+    "id": "folio-3",
+    "title": "NusaByte Technologies - SaaS Cloud Platform",
+    "category": "Digital Branding",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
+    "client": "NusaByte Cloud Solusindo",
+    "year": "2024",
+    "deliverables": ["Dynamic Tech Logo Icon", "UI Design System Tokens", "Investor Deck Presentation", "Marketing Landing Kit"],
+    "description": "Branding modern untuk startup komputasi awan B2B. Kami menciptakan simbol visual geometris yang merepresentasikan kecepatan, kestabilan, dan keamanan data tingkat tinggi, membantu NusaByte meraih pendanaan Seed."
+  },
+  {
+    "id": "folio-4",
+    "title": "Warung Rasa Bahari - Modern Seafood Eatery",
+    "category": "Visual Identity",
+    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1200&auto=format&fit=crop",
+    "client": "Bahari Kuliner Group",
+    "year": "2023",
+    "deliverables": ["Brand Identity & Mascot", "Menu Board & Book Design", "Signage Eksterior & Neon", "Social Media Launch Feed"],
+    "description": "Rebranding restoran hidangan laut legendaris agar relevan bagi generasi muda tanpa menghilangkan nostalgia cita rasa aslinya. Dilengkapi maskot ramah dan tipografi bold yang mudah dikenali dari kejauhan."
+  },
+  {
+    "id": "folio-5",
+    "title": "Veloce Urban Cyclery - Premium Apparel",
+    "category": "Social Media Kit",
+    "image": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?q=80&w=1200&auto=format&fit=crop",
+    "client": "Veloce Sportswear Ltd",
+    "year": "2023",
+    "deliverables": ["Sport Iconography", "Jersey Pattern Graphics", "Instagram Grid Templates", "Motion Graphics Teaser"],
+    "description": "Konsep visual energik dan aerodinamis untuk apparel pesepeda urban. Menggabungkan tipografi futuristik dengan aksen warna kontras tinggi guna memperkuat daya tarik di platform digital."
+  },
+  {
+    "id": "folio-6",
+    "title": "Botanica Living - Sustainable Furniture & Decor",
+    "category": "Packaging & Brand",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&w=1200&auto=format&fit=crop",
+    "client": "Botanica Artisan Studio",
+    "year": "2024",
+    "deliverables": ["Serif Wordmark Logo", "Hangtags & Authenticity Card", "Product Catalog (Print/PDF)", "Showroom Signage Guidelines"],
+    "description": "Identitas visual bernuansa hangat dan earthy untuk studio furnitur kayu jati berkelanjutan. Mengedepankan kesan craftmanship tinggi dan ketenangan hunian modern."
+  },
+  {
+    "id": "folio-7",
+    "title": "Piksel Edukasi - Creative Learning Academy",
+    "category": "Digital Branding",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
+    "client": "Yayasan Piksel Masa Depan",
+    "year": "2024",
+    "deliverables": ["Playful Geometric Logo", "E-Certificate Templates", "LMS Platform Graphics", "Branded Merch Set"],
+    "description": "Branding platform edukasi kreatif untuk talenta digital masa depan. Menampilkan warna-warna cerah dengan fondasi hitam solid yang mencerminkan keceriaan belajar dan profesionalitas kurikulum."
+  },
+  {
+    "id": "folio-8",
+    "title": "Aeterna Chrono - Luxury Timepiece Concept",
+    "category": "Visual Identity",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=1200&auto=format&fit=crop",
+    "client": "Aeterna Horology",
+    "year": "2023",
+    "deliverables": ["Luxury Monogram Emblem", "Embossed Leather Box Package", "Certificate of Authenticity", "Editorial Brand Film Art Direction"],
+    "description": "Perancangan identitas luxury brand jam tangan presisi tinggi. Menggunakan estetika monokrom hitam pekat dengan aksen emas murni untuk mencerminkan keanggunan abadi dan eksklusivitas tingkat tinggi."
+  }
+]
