@@ -417,7 +417,7 @@
             </div>
             <div>
               <label class="block font-bold text-zinc-400 uppercase mb-1">Budget / Anggaran</label>
-              <input type="text" id="brand-name" required placeholder="Contoh: Rp.300.000" class="w-full px-4 py-3 bg-zinc-900 border border-zinc-800 rounded-xl text-white text-sm focus:border-yellow-400 focus:outline-none">
+              <input type="text" id="budget-name" required placeholder="Contoh: Rp.300.000" class="w-full px-4 py-3 bg-zinc-900 border border-zinc-800 rounded-xl text-white text-sm focus:border-yellow-400 focus:outline-none">
             </div>
             <div>
               <label class="block font-bold text-zinc-400 uppercase mb-1">Kebutuhan Layanan</label>
@@ -575,7 +575,7 @@
       const budget = document.getElementById('budget-name').value;
       const service = document.getElementById('service-type').value;
 
-      const message = `Halo Tim otakatikide, saya ingin konsultasi proyek branding:\n*Nama:* ${name}\n*Brand:* ${brand}\n*budget:* ${brand}\n*Layanan:* ${service}`;
+      const message = `Halo Tim otakatikide, saya ingin konsultasi proyek branding:\n*Nama:* ${name}\n*Brand:* ${name}\n*budget:* ${brand}\n*Layanan:* ${service}`;
       window.open(`https://wa.me/6287719613858?text=${encodeURIComponent(message)}`, '_blank');
     });
 
