@@ -27,6 +27,11 @@
   <script src="https://unpkg.com/lucide@latest"></script>
 
   <style>
+    .auto-expand {
+  field-sizing: content; /* Membuat tinggi textarea otomatis ikuti teks */
+  min-height: 48px;       /* Tinggi minimal agar setara input lain */
+  resize: none;           /* Mencegah user menarik ukuran secara manual */
+}
     body {
       font-family: 'Plus Jakarta Sans', sans-serif;
       background-color: #09090b;
@@ -417,7 +422,7 @@
             </div>
             <div>
               <label class="block font-bold text-zinc-400 uppercase mb-1">Penjelasan Singkat</label>
-              <textarea id="brand-name" required rows="3" placeholder="Contoh: Saya membutuhkan desain kemasan Kopi Nusantara, dengan budget saya apakah bisa dibantu buatkan, terimakasih" class="w-full px-4 py-3 bg-zinc-900 border border-zinc-800 rounded-xl text-white text-sm focus:border-yellow-400 focus:outline-none resize-none"></textarea>
+              <textarea id="brand-name" required placeholder="Contoh: Saya membutuhkan desain kemasan Kopi Nusantara, dengan budget saya apakah bisa dibantu buatkan, terimakasih" class="w-full px-4 py-3 bg-zinc-900 border border-zinc-800 rounded-xl text-white text-sm focus:border-yellow-400 focus:outline-none auto-expand"></textarea>
             </div>
             
             <div>
