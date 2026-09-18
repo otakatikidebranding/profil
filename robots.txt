@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://otakatikidebranding.github.io/profil/sitemap.xml
