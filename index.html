@@ -1,50 +1,71 @@
 <!DOCTYPE html>
 <html lang="id" class="scroll-smooth">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <!-- Title Tag (Max 60 karakter) -->
-    <title>Jasa Desain Logo & Branding UMKM | Otakatikide</title>
+  <!-- Title & Description SEO -->
+  <title>Jasa Desain Logo & Branding UMKM | Otakatikide</title>
+  <meta name="description" content="Agensi kreatif profesional penyedia jasa desain logo, kemasan produk, label, &amp; promosi sosmed untuk UMKM dan perusahaan. Dapatkan penawaran terbaik!" />
+  <link rel="canonical" href="https://otakatikidebranding.github.io/profil/" />
 
-    <!-- Meta Description (Max 150-155 karakter) -->
-    <meta name="description" content="Agensi kreatif profesional penyedia jasa desain logo, kemasan produk, label, &amp; promosi sosmed untuk UMKM dan perusahaan. Dapatkan penawaran terbaik!" />
+  <!-- Open Graph / Social Media Preview -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://otakatikidebranding.github.io/profil/" />
+  <meta property="og:title" content="Jasa Desain Logo & Branding Produk | Otakatikide" />
+  <meta property="og:description" content="Solusi desain visual, kemasan produk, dan promosi media sosial terpercaya untuk tingkatkan penjualan brand Anda." />
+  <meta property="og:image" content="https://images.unsplash.com/photo-1600132806370-bf17e65e942f?auto=format&amp;fit=crop&amp;w=1200" />
 
-    <!-- Canonical URL (Penting agar Google mendeteksi halaman utama) -->
-    <link rel="canonical" href="https://otakatikidebranding.github.io/profil/" />
+  <!-- Tailwind CSS CDN (Penting untuk Desain/Layout) -->
+  <script src="https://cdn.tailwindcss.com"></script>
 
-    <!-- Open Graph / Social Media Preview -->
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://otakatikidebranding.github.io/profil/" />
-    <meta property="og:title" content="Jasa Desain Logo & Branding Produk | Otakatikide" />
-    <meta property="og:description" content="Solusi desain visual, kemasan produk, dan promosi media sosial terpercaya untuk tingkatkan penjualan brand Anda." />
-    <meta property="og:image" content="https://images.unsplash.com/photo-1600132806370-bf17e65e942f?auto=format&fit=crop&w=1200" />
+  <!-- Google Fonts: Plus Jakarta Sans -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet" />
 
-    <!-- Schema Markup / Structured Data (Sangat krusial untuk Halaman 1) -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "ProfessionalService",
-      "name": "otakatikide",
-      "image": "https://images.unsplash.com/photo-1600132806370-bf17e65e942f?auto=format&fit=crop&w=1200",
-      "url": "https://otakatikidebranding.github.io/profil/",
-      "description": "Agensi kreatif jasa desain logo, kemasan produk, label, dan promosi media sosial untuk UMKM dan Corporate.",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "ID"
-      },
-      "hasOfferCatalog": {
-        "@type": "OfferCatalog",
-        "name": "Jasa Desain Kreatif",
-        "itemListElement": [
-          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Jasa Desain Logo & Branding" } },
-          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Jasa Desain Kemasan Produk" } },
-          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Desain Promosi Media Sosial" } }
-        ]
-      }
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+
+  <!-- Custom Style -->
+  <style>
+    .auto-expand {
+      field-sizing: content;
+      min-height: 48px;
+      resize: none;
     }
-    </script>
-  </head>
+    body {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      background-color: #09090b;
+      color: #ffffff;
+    }
+  </style>
+
+  <!-- Schema Markup / Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfessionalService",
+    "name": "Otakatikide",
+    "image": "https://images.unsplash.com/photo-1600132806370-bf17e65e942f?auto=format&fit=crop&w=1200",
+    "url": "https://otakatikidebranding.github.io/profil/",
+    "description": "Agensi kreatif jasa desain logo, kemasan produk, label, dan promosi media sosial untuk UMKM dan Corporate.",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "ID"
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Jasa Desain Kreatif",
+      "itemListElement": [
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Jasa Desain Logo & Branding" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Jasa Desain Kemasan Produk" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Desain Promosi Media Sosial" } }
+      ]
+    }
+  }
+  </script>
+</head>
 <body class="bg-zinc-950 text-white selection:bg-yellow-400 selection:text-zinc-950 antialiased">
 
   <!-- HEADER & NAVBAR -->
